@@ -1,2 +1,2 @@
 # Responsive-Portfolio-Website
-Designed a Responsive Portfolio Website using HTML, CSS, JavaScript and SVG.
+Live link: https://dhinesh5629.github.io/Responsive-Portfolio-Website/
